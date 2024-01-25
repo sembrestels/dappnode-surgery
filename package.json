@@ -1,0 +1,13 @@
+{
+  "name": "surgery",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.19.4",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
